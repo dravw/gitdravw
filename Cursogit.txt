@@ -1,0 +1,17 @@
+Pasos para actulizar proyecto git
+
+
+1) Ubicarse en la carpeta del proyecto
+2)git init
+3)git status
+4)git add .
+5)git commit
+6)git log
+7)git branch
+8)git branch VERSION DE LA APK
+9)git branch
+10)git checkout VERSION DE LA APK
+11)git remote add origin PAGINA DEL REPOSITORIO
+12)git push -u origin VERSION DE LA APK
+   despues se abrira un login de github.
+13)
